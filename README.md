@@ -35,3 +35,6 @@ http://127.0.0.1:5000
 
 ## Project Purpose
 This project demonstrates IT support workflows, ticket management, and basic system troubleshooting concepts.
+
+## Screenshot
+![Dashboard](screenshots/dashboard.jpeg)
