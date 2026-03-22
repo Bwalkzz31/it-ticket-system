@@ -19,7 +19,7 @@ A web-based IT support ticketing system built with Flask, SQLite, and HTML/CSS.
 ## How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/it-ticket-system.git
+git clone https://github.com/Bwalkzz31/it-ticket-system.git
 
 2. Navigate into the project:
 cd it-ticket-system
